@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://cvam.ru/wp-content/uploads/2023/10/sharovarnyi-flag-1.webp);
+  background-repeat: no-repeat;
+  background-position: 170px -270px;
+  /*background-size: cover;*/
 }
 
 code {
